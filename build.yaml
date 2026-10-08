@@ -1,4 +1,4 @@
-# nice!view displays are enabled via the 'shield: nice_view' lines below and 'config/blecorne.conf'.
+# nice!view displays are enabled via the 'shield: nice_view' lines below.
 ---
 include:
   - board: blecorne_left
